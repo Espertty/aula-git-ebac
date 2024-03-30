@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gabriel Augusto Ribicki Straube
+-Profissão: QA
+-Cidade: Blumenau
+-O que faz nas horas vaga: Estudo e jogo vôlei
+-Feedback sobre o curso Qualidade de Software: Ótimo até o momento, principalmente por ter sido atualizado
+-Feedback sobre a plataforma de estudo da EBAC: Melhor plataforma de cursos online, isso mesmo comparando com Alura e DIO
 
 Obrigado!!!
 
